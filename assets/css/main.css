@@ -3275,6 +3275,17 @@
 			position: absolute;
 			top: 0;
 		}
+		#header img {
+			-moz-transition: opacity 0.2s ease;
+			-webkit-transition: opacity 0.2s ease;
+			-ms-transition: opacity 0.2s ease;
+			transition: opacity 0.2s ease;
+			height: inherit;
+			left: 1.25em;
+			line-height: inherit;
+			position: absolute;
+			top: 0;
+		}
 
 			#header h1 a {
 				border: 0;
