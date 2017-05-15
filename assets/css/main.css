@@ -2383,11 +2383,12 @@
 			display: block;
 			position: relative;
 			text-align: left;
-			width: 50%;
+			width: 40%;
 		}
 
 			.features li:nth-child(1) {
 				background-color: rgba(0, 0, 0, 0.035);
+				margin-right: 5%;
 			}
 
 			.features li:nth-child(2) {
